@@ -1,0 +1,12 @@
+/node_modules
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+npm-debug.log
+yarn-error.log
+.helm-developerc
+
+public/adminlte/
+
+docker/

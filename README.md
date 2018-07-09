@@ -1,1 +1,3 @@
-# finanzas-api
+## Requisitos
+
+* docker
